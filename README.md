@@ -1,2 +1,2 @@
-# Indian-spices-restaurants
-landing page of my website of Indian specie restaurants.
+#C language Progeams
+C Program that were taugth in class of Basic C Language Programming. 
